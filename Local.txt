@@ -1,3 +1,6 @@
 Desde local
 
 Esto otro es editado en local
+
+
+Cambios editando el mismo archivo desde la nube
